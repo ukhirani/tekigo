@@ -1,3 +1,3 @@
-# tekigo
+# Tekigō (適合)
 
-a super efficient to fill any form possibly written in Go !
+A super efficient way to fill any job application form, written in Go !
